@@ -46,4 +46,6 @@ This will compile the react code inside `app/` to `build/chrome` & `build/firefo
 ## To-Do
  - [ ] Test Suite for the components
 
+Authored by Aman
+
 <!-- Dummy change for testing PR workflow -->
